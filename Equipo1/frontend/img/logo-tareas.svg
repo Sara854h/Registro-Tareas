@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70">
+  <rect x="3" y="3" width="64" height="64" rx="16" fill="#1f363d"/>
+  <path d="M20 25h30M20 35h30M20 45h21" stroke="#cfe0c3" stroke-width="4" stroke-linecap="round"/>
+  <path d="M49 42l5 5 10-12" fill="none" stroke="#70a9a1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="78" y="43" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#1f363d">tareas</text>
+</svg>
